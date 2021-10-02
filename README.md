@@ -5,4 +5,4 @@
 
 2-Mini-batch and stochastic gradient descent for univariate linear regression
 
-3- momentum ,Nesterov ,adagrad ,RMSprop and adam Optimizers
+3- momentum ,Nesterov ,adagrad ,RMSprop and adam Optimizer.
